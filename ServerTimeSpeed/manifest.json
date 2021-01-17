@@ -1,0 +1,10 @@
+{
+  "Name": "ServerTimeSpeed",
+  "Author": "mlsof21",
+  "Version": "1.0.1",
+  "Description": "This mod will detect when a player (or players) on a server would have paused time in single player game and scale the passage of time accordingly. E.g., 1 paused player, 1 normal player means that time passes at half speed. If both players pause, time stops completely.",
+  "UniqueID": "mlsof21.ServerTimeSpeed",
+  "EntryDll": "ServerTimeSpeed.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
