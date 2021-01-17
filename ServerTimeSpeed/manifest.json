@@ -6,5 +6,5 @@
   "UniqueID": "mlsof21.ServerTimeSpeed",
   "EntryDll": "ServerTimeSpeed.dll",
   "MinimumApiVersion": "3.0.0",
-  "UpdateKeys": []
+  "UpdateKeys": [ "Github:mlsof21/StardewMods" ]
 }
